@@ -1,0 +1,15 @@
+C:\Users\OLALEKAN\Desktop\YusuffAhmad\Question1Sln\bin\Debug\net6.0\Question1Sln.exe
+C:\Users\OLALEKAN\Desktop\YusuffAhmad\Question1Sln\bin\Debug\net6.0\Question1Sln.deps.json
+C:\Users\OLALEKAN\Desktop\YusuffAhmad\Question1Sln\bin\Debug\net6.0\Question1Sln.runtimeconfig.json
+C:\Users\OLALEKAN\Desktop\YusuffAhmad\Question1Sln\bin\Debug\net6.0\Question1Sln.dll
+C:\Users\OLALEKAN\Desktop\YusuffAhmad\Question1Sln\bin\Debug\net6.0\Question1Sln.pdb
+C:\Users\OLALEKAN\Desktop\YusuffAhmad\Question1Sln\obj\Debug\net6.0\Question1Sln.csproj.AssemblyReference.cache
+C:\Users\OLALEKAN\Desktop\YusuffAhmad\Question1Sln\obj\Debug\net6.0\Question1Sln.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OLALEKAN\Desktop\YusuffAhmad\Question1Sln\obj\Debug\net6.0\Question1Sln.AssemblyInfoInputs.cache
+C:\Users\OLALEKAN\Desktop\YusuffAhmad\Question1Sln\obj\Debug\net6.0\Question1Sln.AssemblyInfo.cs
+C:\Users\OLALEKAN\Desktop\YusuffAhmad\Question1Sln\obj\Debug\net6.0\Question1Sln.csproj.CoreCompileInputs.cache
+C:\Users\OLALEKAN\Desktop\YusuffAhmad\Question1Sln\obj\Debug\net6.0\Question1Sln.dll
+C:\Users\OLALEKAN\Desktop\YusuffAhmad\Question1Sln\obj\Debug\net6.0\refint\Question1Sln.dll
+C:\Users\OLALEKAN\Desktop\YusuffAhmad\Question1Sln\obj\Debug\net6.0\Question1Sln.pdb
+C:\Users\OLALEKAN\Desktop\YusuffAhmad\Question1Sln\obj\Debug\net6.0\Question1Sln.genruntimeconfig.cache
+C:\Users\OLALEKAN\Desktop\YusuffAhmad\Question1Sln\obj\Debug\net6.0\ref\Question1Sln.dll
